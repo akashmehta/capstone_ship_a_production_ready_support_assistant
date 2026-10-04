@@ -2,7 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.idea
+node_modules
+package.json
+package-lock.json
 # C extensions
 *.so
 
